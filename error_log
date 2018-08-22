@@ -1,0 +1,103 @@
+[20-Nov-2012 07:19:10 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'babyblac_roster'@'localhost' (using password: YES) in /home2/babyblac/public_html/roster/includes/connection.php on line 12
+[20-Nov-2012 07:54:50 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 25
+[20-Nov-2012 07:54:50 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 25
+[20-Nov-2012 07:54:50 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 26
+[20-Nov-2012 07:54:50 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 37
+[20-Nov-2012 07:54:50 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 37
+[20-Nov-2012 07:54:50 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 38
+[20-Nov-2012 07:56:17 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 25
+[20-Nov-2012 07:56:17 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 25
+[20-Nov-2012 07:56:17 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 26
+[20-Nov-2012 07:56:17 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 37
+[20-Nov-2012 07:56:17 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 37
+[20-Nov-2012 07:56:17 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 38
+[20-Nov-2012 07:58:48 UTC] PHP Parse error:  syntax error, unexpected '{' in /home2/babyblac/public_html/roster/test_roster.php on line 27
+[20-Nov-2012 08:06:20 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 25
+[20-Nov-2012 08:06:20 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 25
+[20-Nov-2012 08:06:20 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 26
+[20-Nov-2012 08:06:20 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 37
+[20-Nov-2012 08:06:20 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 37
+[20-Nov-2012 08:06:20 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 38
+[20-Nov-2012 08:06:54 UTC] PHP Notice:  Undefined variable: lachlan in /home2/babyblac/public_html/roster/test_roster.php on line 29
+[20-Nov-2012 08:06:54 UTC] PHP Notice:  Undefined variable: mon_start in /home2/babyblac/public_html/roster/test_roster.php on line 29
+[20-Nov-2012 08:06:54 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 29
+[20-Nov-2012 08:06:54 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 29
+[20-Nov-2012 08:06:54 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 30
+[20-Nov-2012 08:06:54 UTC] PHP Notice:  Undefined variable: lachlan in /home2/babyblac/public_html/roster/test_roster.php on line 41
+[20-Nov-2012 08:06:54 UTC] PHP Notice:  Undefined variable: mon_fin in /home2/babyblac/public_html/roster/test_roster.php on line 41
+[20-Nov-2012 08:06:54 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 41
+[20-Nov-2012 08:06:54 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 41
+[20-Nov-2012 08:06:54 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 42
+[20-Nov-2012 08:19:10 UTC] PHP Notice:  Undefined variable: lachlan in /home2/babyblac/public_html/roster/test_roster.php on line 29
+[20-Nov-2012 08:19:10 UTC] PHP Notice:  Undefined variable: mon_start in /home2/babyblac/public_html/roster/test_roster.php on line 29
+[20-Nov-2012 08:19:10 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 29
+[20-Nov-2012 08:19:10 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 29
+[20-Nov-2012 08:19:10 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 30
+[20-Nov-2012 08:19:10 UTC] PHP Notice:  Undefined variable: lachlan in /home2/babyblac/public_html/roster/test_roster.php on line 41
+[20-Nov-2012 08:19:10 UTC] PHP Notice:  Undefined variable: mon_fin in /home2/babyblac/public_html/roster/test_roster.php on line 41
+[20-Nov-2012 08:19:10 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 41
+[20-Nov-2012 08:19:10 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 41
+[20-Nov-2012 08:19:10 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 42
+[20-Nov-2012 08:19:14 UTC] PHP Notice:  Undefined variable: lachlan in /home2/babyblac/public_html/roster/test_roster.php on line 29
+[20-Nov-2012 08:19:14 UTC] PHP Notice:  Undefined variable: mon_start in /home2/babyblac/public_html/roster/test_roster.php on line 29
+[20-Nov-2012 08:19:14 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 29
+[20-Nov-2012 08:19:14 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 29
+[20-Nov-2012 08:19:14 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 30
+[20-Nov-2012 08:19:14 UTC] PHP Notice:  Undefined variable: lachlan in /home2/babyblac/public_html/roster/test_roster.php on line 41
+[20-Nov-2012 08:19:14 UTC] PHP Notice:  Undefined variable: mon_fin in /home2/babyblac/public_html/roster/test_roster.php on line 41
+[20-Nov-2012 08:19:14 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 41
+[20-Nov-2012 08:19:14 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 41
+[20-Nov-2012 08:19:14 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 42
+[20-Nov-2012 08:34:08 UTC] PHP Notice:  Undefined variable: lachlan in /home2/babyblac/public_html/roster/test_roster.php on line 31
+[20-Nov-2012 08:34:08 UTC] PHP Notice:  Undefined variable: mon_start in /home2/babyblac/public_html/roster/test_roster.php on line 31
+[20-Nov-2012 08:34:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 31
+[20-Nov-2012 08:34:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 31
+[20-Nov-2012 08:34:08 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 32
+[20-Nov-2012 08:34:08 UTC] PHP Notice:  Undefined variable: lachlan in /home2/babyblac/public_html/roster/test_roster.php on line 43
+[20-Nov-2012 08:34:08 UTC] PHP Notice:  Undefined variable: mon_fin in /home2/babyblac/public_html/roster/test_roster.php on line 43
+[20-Nov-2012 08:34:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 43
+[20-Nov-2012 08:34:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 43
+[20-Nov-2012 08:34:08 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 44
+[20-Nov-2012 08:34:46 UTC] PHP Notice:  Undefined variable: lachlan in /home2/babyblac/public_html/roster/test_roster.php on line 31
+[20-Nov-2012 08:34:46 UTC] PHP Notice:  Undefined variable: mon_start in /home2/babyblac/public_html/roster/test_roster.php on line 31
+[20-Nov-2012 08:34:46 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 31
+[20-Nov-2012 08:34:46 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 31
+[20-Nov-2012 08:34:46 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 32
+[20-Nov-2012 08:34:46 UTC] PHP Notice:  Undefined variable: lachlan in /home2/babyblac/public_html/roster/test_roster.php on line 43
+[20-Nov-2012 08:34:46 UTC] PHP Notice:  Undefined variable: mon_fin in /home2/babyblac/public_html/roster/test_roster.php on line 43
+[20-Nov-2012 08:34:46 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 43
+[20-Nov-2012 08:34:46 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 43
+[20-Nov-2012 08:34:46 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 44
+[20-Nov-2012 08:36:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 33
+[20-Nov-2012 08:36:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 33
+[20-Nov-2012 08:36:08 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 34
+[20-Nov-2012 08:36:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 45
+[20-Nov-2012 08:36:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 45
+[20-Nov-2012 08:36:08 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 46
+[20-Nov-2012 08:39:40 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 33
+[20-Nov-2012 08:39:40 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 33
+[20-Nov-2012 08:39:40 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 34
+[20-Nov-2012 08:39:40 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 45
+[20-Nov-2012 08:39:40 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 45
+[20-Nov-2012 08:39:40 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 46
+[20-Nov-2012 08:42:46 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'babyblac'@'localhost' (using password: NO) in /home2/babyblac/public_html/roster/test_roster.php on line 32
+[20-Nov-2012 08:42:46 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/babyblac/public_html/roster/test_roster.php on line 32
+[20-Nov-2012 08:42:46 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home2/babyblac/public_html/roster/test_roster.php on line 33
+[21-Nov-2012 02:19:27 UTC] PHP Parse error:  syntax error, unexpected $end in /home2/babyblac/public_html/roster/test_roster_edit.php on line 537
+[21-Nov-2012 02:20:42 UTC] PHP Parse error:  syntax error, unexpected $end in /home2/babyblac/public_html/roster/test_roster_edit.php on line 536
+[21-Nov-2012 02:23:54 UTC] PHP Fatal error:  Call to undefined function getProductDetailsToUpdate() in /home2/babyblac/public_html/roster/test_roster_edit.php on line 50
+[21-Nov-2012 02:24:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/babyblac/public_html/roster/includes/roster_functions.php on line 53
+[28-Nov-2012 00:05:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/babyblac/public_html/roster/update_roster.php on line 35
+[28-Nov-2012 00:06:57 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home2/babyblac/public_html/roster/update_roster.php on line 28
+[28-Nov-2012 00:07:29 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/babyblac/public_html/roster/update_roster.php on line 36
+[28-Nov-2012 03:23:27 UTC] PHP Parse error:  syntax error, unexpected $end in /home2/babyblac/public_html/roster/includes/roster_functions.php on line 156
+[28-Nov-2012 03:23:30 UTC] PHP Parse error:  syntax error, unexpected $end in /home2/babyblac/public_html/roster/includes/roster_functions.php on line 156
+[28-Nov-2012 03:29:50 UTC] PHP Parse error:  syntax error, unexpected $end in /home2/babyblac/public_html/roster/view_roster.php on line 91
+[28-Nov-2012 03:32:12 UTC] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home2/babyblac/public_html/roster/view_roster.php on line 3
+[28-Nov-2012 03:39:43 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '(' in /home2/babyblac/public_html/roster/login.php on line 26
+[28-Nov-2012 04:50:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/babyblac/public_html/roster/includes/roster_functions.php on line 53
+[01-Dec-2012 06:40:51 UTC] PHP Parse error:  syntax error, unexpected $end in /home2/babyblac/public_html/roster/login.php on line 45
+[01-Dec-2012 06:41:30 UTC] PHP Parse error:  syntax error, unexpected $end in /home2/babyblac/public_html/roster/login.php on line 45
+[01-Dec-2012 06:41:32 UTC] PHP Parse error:  syntax error, unexpected $end in /home2/babyblac/public_html/roster/login.php on line 45
+[01-Dec-2012 06:41:58 UTC] PHP Parse error:  syntax error, unexpected $end in /home2/babyblac/public_html/roster/login.php on line 45
+[01-Dec-2012 06:42:04 UTC] PHP Parse error:  syntax error, unexpected $end in /home2/babyblac/public_html/roster/login.php on line 45

@@ -1,0 +1,97 @@
+html{
+	font-family: 'Inder', sans-serif;
+	background: #cccccc;
+}
+
+
+
+#table1{
+	margin: 0 0 100px 200px;
+	padding-top: -5px;
+	width: 750px;
+	/*------TOP-RIGHT-BOTTOM-LEFT---*/
+}
+
+
+/*
+table.roster {border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif; font-size: 12px;} 
+
+.roster td {padding: 4px; margin: 3px; border: 1px solid #ccc; }
+
+.roster th {background-color: #104E8B; color: #FFF; font-weight: bold;}
+*/
+
+#rosterheading{
+	margin: 100px 0 -1px 200px;
+	padding-bottom: -25px;
+
+}
+
+
+
+
+
+table.roster {
+	font-size:18px;
+	color: black;
+	border-width: 1px;
+	border-color: #999999;
+	border-collapse: collapse;
+}
+table.roster th {
+	background-color:#999999;
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #cccccc;
+}
+table.roster tr {
+	background-color: white;
+}
+table.roster td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #cccccc;
+}
+
+#admin{
+	float: right;
+	margin: 10 0 0 0;
+}
+
+#l-r{
+	
+}
+.roster_select{
+	display:inline-block;
+	width: 54px;
+   height: 19px;
+   overflow: hidden;
+   background: url(down_arrow_select.jpg) no-repeat right #ddd;
+}
+.roster_select select{
+	background: transparent;
+   width: 75px;
+   padding:2px 4px;
+   font-size: 9px;
+   border: 1px solid #ccc;
+   height: 19px
+}
+.roster_select select:focus{
+	background: #7c7667;/*soft browm*/	
+   width: 75px;
+   padding:2px 4px;
+   font-size: 9px;
+   border: 1px solid #ccc;
+   height: 19px
+}
+/*
+.roster select option:hover {
+	background: #fbea5e;/*yellow*//*
+   width: 54px;
+   padding:2px 4px;
+   font-size: 9px;
+   border: 1px solid #ccc;
+   height: 19px;
+}*/
